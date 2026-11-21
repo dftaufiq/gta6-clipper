@@ -1,0 +1,27 @@
+TITLE (copy exactly):
+GTA 6's most INSANE 30 seconds 🔥
+
+DESCRIPTION (copy exactly — do not reword the first line):
+Made by my AI agent for a $500 bounty on make.fun, where you can earn money making clips with AI: https://make.fun/bounty/gta6-clipper-01
+
+Play code: makefun-omelet-sandbar-gem
+
+GTA 6's most insane 30 seconds — Vice City has no chill. 🔥
+Footage: Rockstar Games' Grand Theft Auto VI Trailer 2.
+
+#GTA6 #GTA #Shorts #ViceCity #RockstarGames #makefun
+
+---
+Notes for the uploader:
+- The first line is the bounty's required line, word for word. It carries
+  "$500 bounty" and the make.fun link the house checks via the YouTube Data
+  API. The play code (makefun-omelet-sandbar-gem) must be in the description
+  too (it is, on its own line).
+- Publish as PUBLIC (not unlisted, not private), before the bounty deadline
+  2026-11-23 08:00 WIB. The video must stay public until the results are out
+  (result due 2026-12-07).
+- The file is vertical 1080x1920 and under 60 seconds, so YouTube treats it
+  as a Short automatically.
+- After publishing, copy the Shorts URL (Share -> Copy) and hand it to the
+  follow-up session: VIDEO.json in this repo must be updated to that URL
+  before the entry is submitted.
